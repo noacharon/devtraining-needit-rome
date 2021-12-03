@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Needit">5f5c8d3fdb0001107ba51c9705961982</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Check it out now!!!!</hint>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Create Needit Record</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needit</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-02 17:02:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9c5d0d7fdb0001107ba51c97059619d5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Create Needit Record</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_9c5d0d7fdb0001107ba51c97059619d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-02 17:04:32</sys_updated_on>
+        <timeline_page/>
+        <title>Create Needit Record</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8eb7ab02db382bc0ff27d5b0cf9619da</instance_id>
+        <instance_name>dev71236</instance_name>
+        <name>sys_app_module_9c5d0d7fdb0001107ba51c97059619d5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Needit">5f5c8d3fdb0001107ba51c9705961982</application><assessment/><device_type/><filter/><hint>Check it out now!!!!</hint><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Create Needit Record</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_needit</name><order>100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-02 17:02:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9c5d0d7fdb0001107ba51c97059619d5</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Create Needit Record</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_9c5d0d7fdb0001107ba51c97059619d5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-02 17:04:32</sys_updated_on><timeline_page/><title>Create Needit Record</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>972184326</payload_hash>
+        <record_name>Create Needit Record</record_name>
+        <reverted_from/>
+        <source>ec18417bdb0001107ba51c970596193b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-02 17:04:32</sys_created_on>
+        <sys_id>e2ce0dbfdb0001107ba51c970596194d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d7c1ad2380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-02 17:04:32</sys_updated_on>
+        <type>Module</type>
+        <update_guid>eace0dbff5000110500ea44147158b4c</update_guid>
+        <update_guid_history>eace0dbff5000110500ea44147158b4c:972184326,0eae4dbf880001100d3210da5916d53f:314632255,1d5ec17fdd000110dfea72ed3181be60:-501526914</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create Needit Record">043f4dbfdb0001107ba51c970596199e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-02 17:06:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1829264e2113406089b8f84fcdd67684</sys_id>
+        <sys_metadata>9c5d0d7fdb0001107ba51c97059619d5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Needit Record</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_9c5d0d7fdb0001107ba51c97059619d5</sys_update_name>
+        <sys_update_version display_value="sys_app_module_9c5d0d7fdb0001107ba51c97059619d5">e2ce0dbfdb0001107ba51c970596194d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-02 17:06:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
